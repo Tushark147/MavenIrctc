@@ -231,4 +231,6 @@ public class IrctcRegistrationPagePOM extends ExcelLibrary{
 		
 		
 	}
+	
+	//IRCTC POM Class
 }
